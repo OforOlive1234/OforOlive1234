@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on a game called <b>Dam Clicker</b> as well as a [chrome ectension](https://chrome.google.com/webstore/detail/arcade-classics/gokcmhknbfbkchaljcbjloaebnoblcnd)
 - 🌱 I’m currently learning: HTML, CSS and Javascript
 - 💬 Ask me about something
-- 📫 How to contact me: Message me on discord - [Olive#2814](https://discord.com)
+- 📫 How to contact me: Message me on discord - [OforOlive#2814](https://discord.com)
 - ⚡ Fun fact: Olives are yummy
 <!--
 - 😄 Pronouns: Him / He
