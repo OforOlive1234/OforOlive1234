@@ -5,7 +5,7 @@
 
 ## Stuff about me
 
-- 🔭 I’m currently working on a game called <b>Dam Clicker</b> as well as a [chrome extension](https://chrome.google.com/webstore/detail/arcade-classics/gokcmhknbfbkchaljcbjloaebnoblcnd)
+- 🔭 I’m currently working on a game called <b>Dam Clicker</b> as well as a [firebase chat app](https://pommy-chat.web.app)
 - 🌱 I’m currently learning: HTML, CSS and Javascript
 - 💬 Ask me about something
 - 📫 How to contact me: Message me on discord - [OforOlive#2814](https://discord.com)
