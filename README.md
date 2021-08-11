@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on a game called <b>Dam Clicker</b> as well as a [firebase chat app](https://pommy-chat.web.app)
 - 🌱 I’m currently learning: HTML, CSS and Javascript
 - 💬 Ask me about something
-- 📫 How to contact me: Message me on discord - [OforOlive#2814](https://discord.com)
+- 📫 How to contact me: Message me on discord - [OforOlive1234#2814](https://discord.com)
 - ⚡ Fun fact: Olives are yummy
 - 🤔 [What's this?](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleyVEVO)
 <!--
@@ -26,9 +26,3 @@
 - <img src="https://cdn.iconscout.com/icon/free/png-512/css-118-569410.png" height="15">  CSS
 
 - <img src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png" height="15">  JavaScript
-
-<!--
-LICENSE
-If you would like to copy this file or any others on my profile please **Star** and **Fork** it first.
-Files on my Profile are protect by GNU General Public License v3.0.
--->
