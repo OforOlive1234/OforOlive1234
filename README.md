@@ -26,3 +26,5 @@
 - <img src="https://cdn.iconscout.com/icon/free/png-512/css-118-569410.png" height="15">  CSS
 
 - <img src="https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png" height="15">  JavaScript
+
+- <img src="https://seeklogo.com/vector-logo/298572/typescript" height="15"> Typescript
