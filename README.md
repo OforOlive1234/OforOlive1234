@@ -5,9 +5,8 @@
 
 ## Stuff about me
 
-- 🔭 I’m currently working on a game called <b>Dam Clicker</b> as well as a special surprise
-- 🌱 I’m currently learning: Typescript and React (tsx)
-- 📫 How to contact me: Message me on discord - [OforOlive1234#2814](https://discord.com)
+- 🔭 I’m currently working on a game called <b>Dam Clicker</b> as well as a special surprise...
+- 🌱 I’m currently learning: Typescript and React (tsx), plus I'm working on firebase
 - ⚡ Fun fact: Olives are yummy
 - 🤔 [What's this?](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleyVEVO)
 <!--
