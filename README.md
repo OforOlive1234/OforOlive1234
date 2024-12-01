@@ -1,19 +1,7 @@
 <div align="center">
-  <h1> <img src="https://media0.giphy.com/media/mGVKd9IwAp6rUIFEjN/source.gif" width="35px"> Hello There! <img src="https://media0.giphy.com/media/mGVKd9IwAp6rUIFEjN/source.gif" width="35px">
+  <h1> <img src="https://media0.giphy.com/media/mGVKd9IwAp6rUIFEjN/source.gif" width="35px">
   </h1>
 </div>
-
-## Stuff about me
-
-- 🔭 I’m currently working on a game called <b>Dam Clicker</b> as well as a special surprise...
-- 🌱 I’m currently learning: Typescript and React (tsx), plus I'm working on firebase
-- ⚡ Fun fact: Olives are yummy
-- 🤔 [What's this?](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstleyVEVO)
-<!--
-- 😄 Pronouns: He / Him
-- 👯 I’m looking to collaborate on N/A
-- 🤔 I’m looking for help with N/A
--->
 
 ## Languages i have used:
 
